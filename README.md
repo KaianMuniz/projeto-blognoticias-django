@@ -1,0 +1,2 @@
+Blog feito em django 
+
